@@ -1,0 +1,9 @@
+img {
+  width: 60%;
+}
+
+.countryBox {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  grid-gap: 1rem;
+}
